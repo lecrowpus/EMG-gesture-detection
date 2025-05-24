@@ -13,7 +13,7 @@ This Python project allows users to map Electromyography (EMG) signals to keyboa
 - Smooths signal data using a moving average filter.
 - Triggers keyboard actions based on processed EMG signals.
 - Allows users to configure key mappings through a web interface.
-- Supports saving and loading custom key-mapping presets.
+
 
 ---
 
@@ -68,9 +68,6 @@ This will start a local web-based interface.
 - Click "Start EMG" to begin signal processing.
 - Click "Stop EMG" to halt processing.
 
-### **4. Save & Load Presets**
-- To save a preset, enter a name and click "Save Preset."
-- To load a saved preset, select it from the preset list.
 
 ---
 
