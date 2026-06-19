@@ -331,13 +331,4 @@ Suggested license: MIT
 
 ---
 
-## Future improvements
-
-- add a dedicated training script
-- support more EMG channels
-- add a more advanced UI for presets and live graphs
-- expose a calibration wizard
-- support custom non-ML thresholds in .env
-- add a model evaluation dashboar
-
 #### For any help/issues contact me at https://www.instagram.com/atharvak.dev/ 
